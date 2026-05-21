@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Karthik 👋
 
-<!--
-**gokarthik/gokarthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced QA professional with 15+ years of experience in
+software testing, automation, quality engineering, API validation,
+and scalable QA systems.
 
-Here are some ideas to get you started:
+Currently exploring AI-assisted testing, cloud infrastructure,
+developer tooling, automation workflows, and self-hosted systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- QA Automation
+- API Testing
+- Test Strategy
+- Selenium
+- Python
+- JavaScript
+- CI/CD
+- Docker
+- Linux
+- Cloud & DevOps
+- AI Tooling Experiments
+- LLM Workflows
+
+---
+
+## Current Focus
+
+- AI-assisted QA workflows
+- LLM-powered automation experiments
+- Cloud infrastructure learning
+- Docker & self-hosting
+- Developer productivity systems
+- Modern deployment pipelines
+
+---
+
+## Links
+
+- Portfolio: https://www.gokarthik.com
+- GitHub: https://github.com/gokarthik
+
+---
+
+## Featured Projects
+
+### AI-Assisted QA Experiments
+Exploring LLM-powered workflows for testing,
+automation, and productivity tooling.
+
+### Cloud Infrastructure Playground
+Hands-on experiments with hosting, DNS,
+deployment pipelines, containers, and VMs.
+
+### Automation Framework Labs
+Building scalable automation utilities,
+API validation systems, and QA tooling.
