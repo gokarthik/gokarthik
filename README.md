@@ -41,7 +41,8 @@ developer tooling, automation workflows, and self-hosted systems.
 
 - Portfolio: https://www.gokarthik.com
 - GitHub: https://github.com/gokarthik
-
+- LinkedIn: https://www.linkedin.com/in/karthikbhoopathi
+  
 ---
 
 ## Featured Projects
