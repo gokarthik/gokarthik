@@ -1,4 +1,4 @@
-# Hi, I'm Karthik 👋
+# Hi, I'm Karthik Bhoopathi 👋
 
 Experienced QA professional with 15+ years of experience in
 software testing, automation, quality engineering, API validation,
